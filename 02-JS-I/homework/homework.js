@@ -4,19 +4,19 @@
 const nuevaString = "Hola"; 
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 9321;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = yerro;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = 10 - 5 === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * null === 40 ;     
+const nuevaMultiplicacion = 10 * 4 === 40 ;     
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 4 ;
 
 
 // En los próximos 22 problemas, deberás completar la función.
@@ -28,25 +28,26 @@ const nuevoModulo = 21 % 5 === null;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:
+  // Tu código: =0 + 0
   
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
-  // Tu código:
+  // Tu código: 5-3= 2
   
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
-  // Tu código:
+  // Tu código: =xy
+  
   
 }
 
@@ -93,7 +94,7 @@ function obtenerResto(x, y) {
 function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
-  // Tu código:
+  // Tu código: 1
   
 }
 
